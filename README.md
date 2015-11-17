@@ -7,9 +7,8 @@
 ###Redux(https://github.com/rackt/redux)
 predictable state container for JavaScript apps
 
-###Site
-behance(https://www.behance.net/)
-showcase
+###normalizr(https://github.com/gaearon/normalizr)
+normalizes nested JSON according to a schema
 
 ##infrastructure
 
@@ -17,3 +16,7 @@ showcase
 tool for building, changing and combining infrastructure
 
 ##Database
+
+##Site
+###behance(https://www.behance.net/)
+showcase
