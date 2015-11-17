@@ -67,10 +67,14 @@ atlassian's git tutorials
 
 #IDE
 ###Brackets(http://brackets.io/)
+A modern, open source text editor that understands web design.
 
 #Language
 
 ###Rust(https://www.rust-lang.org/)
 Rust is a systems programming language that runs blazingly fast, prevents nearly all segfaults, and guarantees thread safety.
 
-A modern, open source text editor that understands web design.
+#Other
+
+###LLVM(http://llvm.org/Features.html)
+The LLVM Compiler Infrastructure
