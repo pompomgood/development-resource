@@ -49,6 +49,11 @@ open-source database for realtime web
 ###OrientDB(http://orientdb.com/orientdb/)
 OrientDB is a 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license (Apache 2 license).
 
+#Library
+
+###opencv(https://github.com/Itseez/opencv)
+Open Source Computer Vision Library
+
 #Site
 
 ###RegExr(http://regexr.com/)
