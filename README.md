@@ -1,9 +1,11 @@
-# development-resource
+# Development-resource
 
-##back-end
+##Back-end
 
-##front-end
+##Front-end
+###Redux(https://github.com/rackt/redux/blob/master/README.md)
+predictable state container for JavaScript apps
 
 ##infrastructure
 
-##database
+##Database
