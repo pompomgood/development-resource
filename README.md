@@ -37,3 +37,6 @@ open-source database for realtime web
 ##Site
 ###behance(https://www.behance.net/)
 showcase
+
+###Getting Git Right(https://www.atlassian.com/git/)
+atlassian's git tutorials
