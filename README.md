@@ -5,6 +5,9 @@
 ###Kafka(http://kafka.apache.org/)
 Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
 
+###SWAGGER(http://swagger.io/)
+Swagger is a simple yet powerful representation of your RESTful API.
+
 ###nginx-rtmp-module(https://github.com/arut/nginx-rtmp-module)
 NGINX-based Media Streaming Server
 
@@ -44,3 +47,7 @@ showcase
 
 ###Getting Git Right(https://www.atlassian.com/git/)
 atlassian's git tutorials
+
+##IDE
+###Brackets(http://brackets.io/)
+A modern, open source text editor that understands web design.
