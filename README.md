@@ -17,6 +17,9 @@ A media packaging SDK intended for C++ programmers writing MPEG-DASH packaging a
 ###Redux(https://github.com/rackt/redux)
 predictable state container for JavaScript apps
 
+###dust(http://akdubya.github.io/dustjs/#dust)
+templating engine
+
 ###normalizr(https://github.com/gaearon/normalizr)
 normalizes nested JSON according to a schema
 
