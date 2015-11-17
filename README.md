@@ -2,6 +2,12 @@
 
 ##Back-end
 
+###nginx-rtmp-module(https://github.com/arut/nginx-rtmp-module)
+NGINX-based Media Streaming Server
+
+###edash-packager(https://github.com/google/edash-packager)
+A media packaging SDK intended for C++ programmers writing MPEG-DASH packaging applications with Widevine DRM and Common Encryption support.
+
 ##Front-end
 
 ###Redux(https://github.com/rackt/redux)
