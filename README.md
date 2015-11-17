@@ -1,5 +1,8 @@
 #Back-end
 
+###TestNG(http://testng.org/doc/index.html)
+TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use
+
 ###Kafka(http://kafka.apache.org/)
 Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
 
