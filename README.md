@@ -20,6 +20,9 @@ predictable state container for JavaScript apps
 ###normalizr(https://github.com/gaearon/normalizr)
 normalizes nested JSON according to a schema
 
+###FamousEngine(http://famous.org/)
+High-performance javascript library for animations & interfaces
+
 #infrastructure
 
 ###terraform(https://github.com/hashicorp/terraform)
