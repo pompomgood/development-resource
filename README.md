@@ -49,6 +49,9 @@ build cross platform desktop apps with web technologies
 
 #Database
 
+###presto(https://prestodb.io/)
+Distributed SQL Query Engine for Big Data
+
 ###RethinkDB(https://github.com/rethinkdb/rethinkdb)
 open-source database for realtime web
 
