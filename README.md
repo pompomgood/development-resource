@@ -2,6 +2,9 @@
 
 ##Back-end
 
+###Kafka(http://kafka.apache.org/)
+Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
+
 ###nginx-rtmp-module(https://github.com/arut/nginx-rtmp-module)
 NGINX-based Media Streaming Server
 
