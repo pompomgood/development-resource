@@ -65,6 +65,9 @@ build cross platform desktop apps with web technologies
 
 #Database
 
+###RIAK(http://basho.com/products/#riak)
+Ensure your Big Data, IoT and hybrid cloud applications scale and your data is always available.
+
 ###presto(https://prestodb.io/)
 Distributed SQL Query Engine for Big Data
 
