@@ -17,6 +17,10 @@ A media packaging SDK intended for C++ programmers writing MPEG-DASH packaging a
 
 #Front-end
 
+###Sinon.JS(http://sinonjs.org/)
+Standalone test spies, stubs and mocks for JavaScript.
+No dependencies, works with any unit testing framework.
+
 ###Chai(http://chaijs.com/)
 Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
