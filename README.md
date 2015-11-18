@@ -17,6 +17,9 @@ A media packaging SDK intended for C++ programmers writing MPEG-DASH packaging a
 
 #Front-end
 
+###Selenium(http://www.seleniumhq.org/)
+Selenium automates browsers.
+
 ###jquery.mb.YTPlayer(https://github.com/pupunzi/jquery.mb.YTPlayer)
 use a custom yutube player for a video as background on jQuery framework
 
