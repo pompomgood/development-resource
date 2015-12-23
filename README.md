@@ -109,3 +109,6 @@ Rust is a systems programming language that runs blazingly fast, prevents nearly
 
 ###LLVM(http://llvm.org/Features.html)
 The LLVM Compiler Infrastructure
+
+###thumbor(https://github.com/thumbor/thumbor)
+thumbor is an open-source photo thumbnail service
