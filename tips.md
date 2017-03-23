@@ -22,3 +22,13 @@ db.client.update({clientId:"sdk-test-app-2"},{$push:{redirectUri:"mattel://com.m
 ```
 
 # Git
+
+### show remote
+```
+git remote -v
+```
+
+### add upstream
+```
+git remote add taipei_gitlab git@oooo/xxxx.git
+```
