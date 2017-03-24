@@ -5,6 +5,15 @@
 mvn -f {{module_name}}
 ```
 
+# Jersry
+
+### match any path
+```
+@Path("{any: .*}")
+```
+```
+public Response getSomething(@PathParam("any") List<PathSegment> segments)
+```
 # IntelliJ
 
 ### Change IntelliJ setting
