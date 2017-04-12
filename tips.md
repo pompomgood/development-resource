@@ -41,3 +41,10 @@ git remote -v
 ```
 git remote add taipei_gitlab git@oooo/xxxx.git
 ```
+
+# Java
+
+### Contain Any
+```
+Collections.disjoint(A, B)
+```
